@@ -16,7 +16,7 @@
 - **Merge Conflict** - Occurs when Git cannot automatically resolve code differences between two commits.
 - **Push** - A command used to upload local repository content to a remote repository.
 - **Pull** - A combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.
-- **Remote** - 
+- **Remote** - A remote repository in Git is a repository that is hosted on the Internet or on another network.
 - **Repository** - Tracks and saves the history of all changes made to the files in a Git project.
 
 ## References 
